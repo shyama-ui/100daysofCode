@@ -1,0 +1,12 @@
+def find_outlier(integers):
+    evenList=[]
+    oddList=[]
+    for i in integers:
+        if(i%2==0):
+            evenList.append(i)
+        else:
+            oddList.append(i)
+    if(len(evenList)==1):
+        return evenList[0]
+    else:
+        return oddList[0]
