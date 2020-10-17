@@ -1,0 +1,14 @@
+def diagonalDifference(arr):
+    pd=0;
+    sd=0;
+    # Write your code here
+    for i in range(n):
+        for j in range(n):
+            if(i==j):
+                pd+=arr[i][j]
+            if(i+j==n-1):
+                sd+=arr[i][j]
+    if(pd-sd>0):
+        return pd-sd
+    else:
+        return -1*(pd-sd)
