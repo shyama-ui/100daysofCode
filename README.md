@@ -15,4 +15,4 @@ Assume that any integer from 0-9 in any of the spots will produce a valid phone 
 Only worry about the following format:
 (123) 456-7890 (don't forget the space after the close parentheses)
 # Day2
-![Screenshot (181)](https://user-images.githubusercontent.com/59372076/96361114-a6dccf00-1140-11eb-8bc6-b9edbba7b39f.png)
+![Screenshot (182)](https://user-images.githubusercontent.com/59372076/96361188-4ef29800-1141-11eb-822a-450076a7af79.png)
