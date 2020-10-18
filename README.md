@@ -16,3 +16,10 @@ Only worry about the following format:
 (123) 456-7890 (don't forget the space after the close parentheses)
 # Day2
 ![Screenshot (182)](https://user-images.githubusercontent.com/59372076/96361188-4ef29800-1141-11eb-822a-450076a7af79.png)
+## Birthday Candles
+## Compare the Triplets
+## Diagonal Difference
+## Find Digits
+## Mini Max Sum
+## Staircase
+## Two Strings
