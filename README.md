@@ -23,3 +23,5 @@ Only worry about the following format:
 ## Mini Max Sum
 ## Staircase
 ## Two Strings
+# Day3
+Inheritance and pointers basics
