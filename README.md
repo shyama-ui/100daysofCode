@@ -25,3 +25,5 @@ Only worry about the following format:
 ## Two Strings
 # Day3
 Inheritance and pointers basics
+# Day4 
+Earned the gold c++ badge and anagrams in java
