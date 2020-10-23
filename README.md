@@ -29,3 +29,5 @@ Inheritance and pointers basics
 Earned the gold c++ badge and anagrams in java
 # Day5
 Solved java oop problems from hackerrank
+# Day6
+Started learning Singly Linked List
